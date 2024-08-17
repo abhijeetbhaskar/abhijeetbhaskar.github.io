@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ef69026.css",
+    "main.js": "/static/js/main.8941eec9.js",
+    "static/media/sarkari-doot.png": "/static/media/sarkari-doot.57aa940477fb0dca9eef.png",
+    "static/media/my-avatar.png": "/static/media/my-avatar.0e2efe045317bb9735a3.png",
+    "static/media/AbhijeetBhaskar_Resume.pdf": "/static/media/AbhijeetBhaskar_Resume.791ee0164f5a4c3882e6.pdf",
+    "static/media/munshi-premchand.png": "/static/media/munshi-premchand.fe5c7a3c55459527728d.png",
+    "static/media/personal-portfolio.png": "/static/media/personal-portfolio.1a42deb0838f0ac4ee3a.png",
+    "static/media/employee-management-system.png": "/static/media/employee-management-system.6026ef4a9068339b470e.png",
+    "static/media/store-inventory-manager.png": "/static/media/store-inventory-manager.6067885fa04e3d7e0fa6.png",
+    "static/media/product-sorting-dashboard.png": "/static/media/product-sorting-dashboard.e4b5b91e0ef10c8d5d44.png",
+    "static/media/ivy-league-resume.png": "/static/media/ivy-league-resume.f565a774a74038649306.png",
+    "static/media/git-wrong-file.jgp.jpg": "/static/media/git-wrong-file.jgp.e39680087a9970c2139f.jpg",
+    "static/media/product-cart-manager.png": "/static/media/product-cart-manager.921c0852e3d6b3c9d2e1.png",
+    "static/media/todo-list.png": "/static/media/todo-list.09faf467215e9e9bd648.png",
+    "static/media/loan-assist-pro.png": "/static/media/loan-assist-pro.265e0d76cdf2d6fcae07.png",
+    "static/media/react-insight.jpg": "/static/media/react-insight.adf6bea20e9bd3bed6ea.jpg",
+    "static/media/var-and-let.png": "/static/media/var-and-let.08b059af76267048db34.png",
+    "static/media/genpact.png": "/static/media/genpact.ccccb7b96f74a8dbda83.png",
+    "static/media/tcs.png": "/static/media/tcs.d09c55b0758030cd6126.png",
+    "static/media/prop-drilling.jpg": "/static/media/prop-drilling.7c8801b61d408d52c4c0.jpg",
+    "static/media/icon-dev.svg": "/static/media/icon-dev.2a51ebae3899ae5ab67adf9875f02393.svg",
+    "static/media/icon-design.svg": "/static/media/icon-design.d6326a90fb3a6e270b2fbf68c58759cb.svg",
+    "static/media/icon-dwh.svg": "/static/media/icon-dwh.d9d2ca920e4b4d28f57d13d56a1f5133.svg",
+    "static/media/icon-backend.svg": "/static/media/icon-backend.1da1238c9f433401b64ee67ecef49949.svg",
+    "static/media/skillsoft.svg": "/static/media/skillsoft.e9740b4a41a2a8932bab9c0d0abb9f0a.svg",
+    "static/media/icon-quote.svg": "/static/media/icon-quote.478aa3c6ff76bfa1cc652270d25603cb.svg",
+    "static/media/docker.svg": "/static/media/docker.6f3a45b3af99bb1cfbc4d72580be2bd3.svg",
+    "static/media/github.svg": "/static/media/github.7c8a97d931b99c5bcc1c5ce6f11dce3d.svg",
+    "index.html": "/index.html",
+    "static/media/microsoft.svg": "/static/media/microsoft.a4ad7061bef176912c453e4b333c8757.svg",
+    "static/media/mozilla.svg": "/static/media/mozilla.f2b017ae495845b65e9ddcdccd3638db.svg",
+    "static/media/genpact.svg": "/static/media/genpact.77201c12c9d1e3d6595b3da787b9c653.svg",
+    "main.2ef69026.css.map": "/static/css/main.2ef69026.css.map",
+    "main.8941eec9.js.map": "/static/js/main.8941eec9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ef69026.css",
+    "static/js/main.8941eec9.js"
+  ]
+}
