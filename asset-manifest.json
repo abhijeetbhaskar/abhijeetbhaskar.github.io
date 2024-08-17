@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2ef69026.css",
-    "main.js": "/static/js/main.49b03898.js",
+    "main.js": "/static/js/main.ff2f7394.js",
     "static/media/sarkari-doot.png": "/static/media/sarkari-doot.57aa940477fb0dca9eef.png",
     "static/media/my-avatar.png": "/static/media/my-avatar.0e2efe045317bb9735a3.png",
     "static/media/AbhijeetBhaskar_Resume.pdf": "/static/media/AbhijeetBhaskar_Resume.791ee0164f5a4c3882e6.pdf",
@@ -33,10 +33,10 @@
     "static/media/mozilla.svg": "/static/media/mozilla.f2b017ae495845b65e9ddcdccd3638db.svg",
     "static/media/genpact.svg": "/static/media/genpact.77201c12c9d1e3d6595b3da787b9c653.svg",
     "main.2ef69026.css.map": "/static/css/main.2ef69026.css.map",
-    "main.49b03898.js.map": "/static/js/main.49b03898.js.map"
+    "main.ff2f7394.js.map": "/static/js/main.ff2f7394.js.map"
   },
   "entrypoints": [
     "static/css/main.2ef69026.css",
-    "static/js/main.49b03898.js"
+    "static/js/main.ff2f7394.js"
   ]
 }
