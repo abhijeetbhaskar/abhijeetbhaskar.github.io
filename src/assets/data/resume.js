@@ -85,6 +85,19 @@ export const SKILLS = [
     skills: ["Git", "GitHub", "GitLab"],
   },
   {
+    title: "Back-End Basics",
+    skills: ["Node.js", "SQL", "PL-SQL", "Postgres", "pgAdmin"],
+  },
+  {
+    title: "Deployment & DevOps",
+    skills: [
+      "CI/CD Pipelines",
+      "Docker",
+      "Google Cloud Platform (GCP)",
+      "GitHub Actions",
+    ],
+  },
+  {
     title: "Other Tools",
     skills: [
       "Visual Studio Code",
@@ -104,39 +117,6 @@ export const SKILLS = [
       "Scrum",
       "Code Review Practices",
       "Test Driven Development",
-    ],
-  },
-  {
-    title: "Back-End Basics",
-    skills: ["Node.js", "SQL", "PL-SQL", "Postgres", "pgAdmin"],
-  },
-  {
-    title: "Deployment & DevOps",
-    skills: [
-      "CI/CD Pipelines",
-      "Docker",
-      "Google Cloud Platform (GCP)",
-      "GitHub Actions",
-    ],
-  },
-  {
-    title: "Leadership & Team Skills",
-    skills: [
-      "Team Leadership",
-      "Mentorship",
-      "Project Management",
-      "Cross-functional Team Collaboration",
-      "Conflict Resolution",
-      "Team Building",
-    ],
-  },
-  {
-    title: "Soft Skills",
-    skills: [
-      "Problem Solving",
-      "Communication",
-      "Time Management",
-      "Attention to Detail",
     ],
   },
 ];

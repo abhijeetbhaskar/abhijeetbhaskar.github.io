@@ -24,13 +24,6 @@ export const PORTFOLIO = [
     url: "https://abhijeetbhaskar.github.io/ivy-league-resume/",
   },
   {
-    title: "Employee Management System",
-    category: "JavaScript",
-    imgSrc: employeeManagementSystem,
-    altText: "Employee Management System",
-    url: "https://z8lxd3.csb.app/",
-  },
-  {
     title: "Loan Assist Pro",
     category: "React.js",
     imgSrc: loanAssistPro,
@@ -38,18 +31,25 @@ export const PORTFOLIO = [
     url: "https://abhijeetbhaskar.github.io/loan-assist-pro/",
   },
   {
-    title: "Product Cart Manager",
-    category: "JavaScript",
-    imgSrc: productCartManager,
-    altText: "Product Cart Manager",
-    url: "https://r6n8y7.csb.app/",
-  },
-  {
     title: "Todo List",
     category: "React.js",
     imgSrc: todoList,
     altText: "TodoMatic - Todo Lits",
     url: "https://abhijeetbhaskar.github.io/Todo-List/",
+  },
+  {
+    title: "Employee Management System",
+    category: "JavaScript",
+    imgSrc: employeeManagementSystem,
+    altText: "Employee Management System",
+    url: "https://z8lxd3.csb.app/",
+  },
+  {
+    title: "Product Cart Manager",
+    category: "JavaScript",
+    imgSrc: productCartManager,
+    altText: "Product Cart Manager",
+    url: "https://r6n8y7.csb.app/",
   },
   {
     title: "Store Inventory Manager",
