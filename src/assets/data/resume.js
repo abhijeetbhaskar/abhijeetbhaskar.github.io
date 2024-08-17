@@ -53,10 +53,10 @@ export const EXPERIENCE = [
 ];
 
 export const PRIMARY_SKILLS = [
-  { name: "React.js", percentage: 85 },
+  { name: "React.js", percentage: 90 },
   { name: "JavaScript", percentage: 85 },
   { name: "TypeScript", percentage: 80 },
-  { name: "HTML5 & CSS3", percentage: 90 },
+  { name: "HTML5 & CSS3", percentage: 80 },
 ];
 
 export const SKILLS = [
