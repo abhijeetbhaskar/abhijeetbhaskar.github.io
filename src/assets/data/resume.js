@@ -10,18 +10,18 @@ export const EDUCATION = [
     title: "Bachelor of Technology",
     date: "2015 — 2019",
     description:
-      "Passed with Ist Division (70%) from Uttar Pradesh Technical University, Lucknow.",
+      "Passed with Ist Div. from Uttar Pradesh Technical University, Lucknow.",
   },
   {
     title: "Higher Secondary",
     date: "2013 — 2015 | CBSE",
     description:
-      "Passed with Ist Div. (90%) from Jawahar Navodaya Vidyalay, Gopalganj, Bihar.",
+      "Passed with Ist Div. from Jawahar Navodaya Vidyalay, Gopalganj, Bihar.",
   },
   {
     title: "High school",
     date: "2011 — 2013 | CBSE",
-    description: "Passed with Ist Div. (90%) from S S Academy, Saran, Bihar.",
+    description: "Passed with Ist Div. from S S Academy, Saran, Bihar.",
   },
 ];
 

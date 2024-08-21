@@ -16,7 +16,7 @@ export const CONTACT_DETAILS = [
   {
     type: "LinkedIn",
     iconName: "logo-linkedin",
-    href: "https://in.linkedin.com/in/abhijeet-bhaskar",
+    href: "https://www.linkedin.com/in/abhijeet-bhaskar",
     text: "abhijeet-bhaskar",
     isLink: true,
   },
